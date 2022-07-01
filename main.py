@@ -1,9 +1,8 @@
-# Here I want to create a guessing game of a secret word. The user will have 1 prompt throughout the game
-# But! It will have limited number of guesses
-# Let's start playing!
+# Here I wanted to create a word guessing game of a secret word. The user will have 1 prompt which could be used throughout the game
+# But! It will also have limited number of guesses
 
 print("Welcome to the Word Guessing Game! The secret word is green."
-      "\nYou have only 5 guesses...But! You also have 1 prompt which you can use anytime in the game"
+      "\nYou have only 5 guesses...But! You also have 1 prompt which you can use anytime in the game."
       "\nIn order to use the prompt write \"PROMPT\"")
 
 guess_limit = 5
